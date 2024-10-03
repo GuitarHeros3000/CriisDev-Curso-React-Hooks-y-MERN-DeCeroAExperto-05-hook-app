@@ -35,6 +35,7 @@ export default [
       ],
       "react/prop-types": "off",
       "react-hooks/exhaustive-deps": 0,
+      'react/display-name': 'off',
     },
   },
 ]
